@@ -1,3 +1,3 @@
-<h1> newISTUproject
-<h1 align = "center"> Описание проекта
+<h1> FIRE_MATH
+<h1> Описание проекта
 <h2> В игре реализовано
