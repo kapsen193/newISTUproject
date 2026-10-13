@@ -1,1 +1,2 @@
 # newISTUproject
+# Описание проекта
